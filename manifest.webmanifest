@@ -1,0 +1,24 @@
+{
+ "name": "La Tournée",
+ "short_name": "La Tournée",
+ "description": "Le jeu de soirée gratuit, sans pub et sans paquet payant.",
+ "lang": "fr",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#2B1055",
+ "theme_color": "#2B1055",
+ "icons": [
+  {
+   "src": "icone-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icone-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
